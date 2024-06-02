@@ -78,9 +78,10 @@ Remember, our business question is:
 
 First, what is our **unit of analysis**, and what is the **unique identifier**? In other words, what will one record in our final data structure represent, and what attribute uniquely describes it?
 
-.
+.Our unit of analysis is each country that participated in the 2018 FIFA World Cup.
 
-.
+.The unique identifier for each record in our final data structure will be the country name. Each record will represent a country, and the country name attribute will uniquely describe it.
+
 
 .
 
